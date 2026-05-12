@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains Rider for PC | JetBrains Rider for Windows with JetBrains Rider for PC | JetBrains Rider for Windows professional Tool: debugger & code-analysis, the #1 tool.
 
 
 
